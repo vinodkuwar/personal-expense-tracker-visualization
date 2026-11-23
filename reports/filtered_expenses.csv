@@ -1,0 +1,43 @@
+Date,Date_Str,Category,Amount,Payment_Method,Description
+2025-01-05,2025-01-05,Entertainment,908.23,Cash,Cinema movie tickets & snacks
+2025-01-09,2025-01-09,Food,524.87,Credit Card,Dinner at restaurant
+2025-01-13,2025-01-13,Education,1815.15,Cash,Technical reference books
+2025-01-14,2025-01-14,Entertainment,635.42,Credit Card,Cinema movie tickets & snacks
+2025-01-15,2025-01-15,Bills,2894.05,Cash,Water & maintenance fee
+2025-01-15,2025-01-15,Food,52.17,UPI,Groceries at supermarket
+2025-01-21,2025-01-21,Other,428.36,Credit Card,Hardware repair tools
+2025-01-21,2025-01-21,Shopping,1911.12,Debit Card,Personal grooming products
+2025-01-22,2025-01-22,Shopping,1329.96,Cash,Bookshelf organizers
+2025-01-28,2025-01-28,Education,2219.86,Cash,Technical reference books
+2025-01-28,2025-01-28,Food,342.29,UPI,Dinner at restaurant
+2025-01-29,2025-01-29,Bills,3376.34,UPI,Electricity utility bill
+2025-02-02,2025-02-02,Entertainment,972.48,Cash,Spotify music premium
+2025-02-04,2025-02-04,Education,1806.51,Credit Card,Online programming course fee
+2025-02-04,2025-02-04,Transport,143.72,Debit Card,Petrol refill for vehicle
+2025-02-05,2025-02-05,Health,1667.69,Cash,Multivitamins & protein supplement
+2025-02-10,2025-02-10,Bills,3341.89,Debit Card,Mobile postpaid / prepaid plan
+2025-02-10,2025-02-10,Transport,88.02,UPI,Train ticket reservation
+2025-02-11,2025-02-11,Entertainment,729.52,Credit Card,Cinema movie tickets & snacks
+2025-02-13,2025-02-13,Entertainment,381.98,Credit Card,Museum entry & exhibition ticket
+2025-02-13,2025-02-13,Food,621.25,UPI,Weekend food delivery
+2025-02-14,2025-02-14,Transport,312.39,UPI,Train ticket reservation
+2025-02-17,2025-02-17,Transport,523.34,UPI,Train ticket reservation
+2025-02-18,2025-02-18,Health,1767.34,Debit Card,Doctor consultation fee
+2025-02-19,2025-02-19,Food,110.69,Cash,Groceries at supermarket
+2025-02-20,2025-02-20,Food,336.53,UPI,Evening snacks & chai
+2025-02-21,2025-02-21,Education,306.01,Debit Card,Educational workshop registration
+2025-02-22,2025-02-22,Entertainment,1298.78,UPI,Netflix streaming subscription
+2025-02-22,2025-02-22,Food,647.98,Debit Card,Fruit and vegetable market
+2025-02-23,2025-02-23,Entertainment,389.18,Cash,Cinema movie tickets & snacks
+2025-02-24,2025-02-24,Transport,301.44,Debit Card,Monthly public bus pass
+2025-02-28,2025-02-28,Food,729.72,UPI,Groceries at supermarket
+2025-03-03,2025-03-03,Shopping,3780.88,Credit Card,Home decor & kitchenware
+2025-03-03,2025-03-03,Food,830.05,Cash,Fruit and vegetable market
+2025-03-04,2025-03-04,Bills,3679.34,Credit Card,LPG cylinder refill
+2025-03-04,2025-03-04,Bills,2274.21,Cash,Electricity utility bill
+2025-03-06,2025-03-06,Food,722.57,UPI,Fruit and vegetable market
+2025-03-07,2025-03-07,Transport,446.41,UPI,Uber / Ola cab ride
+2025-03-13,2025-03-13,Food,360.61,Cash,Dinner at restaurant
+2025-03-22,2025-03-22,Shopping,1370.91,Credit Card,Bookshelf organizers
+2025-03-22,2025-03-22,Shopping,2539.62,UPI,Electronics cable & accessory
+2025-03-27,2025-03-27,Shopping,2394.25,Credit Card,Bookshelf organizers
